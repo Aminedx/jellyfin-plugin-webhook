@@ -5,7 +5,7 @@
         "description": "Visualize public content",
         "overview": "Visualize public content",
         "owner": "AmineTV",
-        "category": "Metadata",
+        "category": "Personnal",
         "image": "themerr-jellyfin.png",
         "imageUrl": "https://lizardbyte.github.io/jellyfin-plugin-repo/themerr/themerr-jellyfin.png",
         "versions": [
