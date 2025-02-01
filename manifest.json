@@ -1,0 +1,23 @@
+[
+    {
+        "guid": "e41ef0c4-c400-41ba-b400-8c565dc3c900",
+        "name": "Amine",
+        "description": "Visualize public content",
+        "overview": "Visualize public content",
+        "owner": "AmineTV",
+        "category": "Metadata",
+        "image": "themerr-jellyfin.png",
+        "imageUrl": "https://lizardbyte.github.io/jellyfin-plugin-repo/themerr/themerr-jellyfin.png",
+        "versions": [
+            {
+                "version": "2025.523.2124.32",
+                "changelog": "see LizardByte/Themerr-jellyfin on GitHub",
+                "targetAbi": "10.9.1.0",
+                "sourceUrl": "https://github.com/Aminedx/jellyfin-plugin-webhook/tree/master",
+                "checksum": "032f4780aac31526d30a556cbafdfb1f",
+                "timestamp": "2024-05-23T21:55:01Z"
+            }
+          
+        ]
+    }
+]
